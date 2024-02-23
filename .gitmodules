@@ -1,0 +1,11 @@
+[submodule "nebula"]
+    path = nebula
+    url = git://github.com/F1restorm07/nebula.git
+
+[submodule "starlink"]
+	path = starlink
+	url = https://github.com/F1restorm07/starlink
+
+[submodule "supernova"]
+	path = supernova
+	url = https://github.com/F1restorm07/supernova
