@@ -3,6 +3,13 @@ name = "orbit"
 version = "0.1.0"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
+nebula = { path = "../nebula" }
+starlink = { path = "../starlink" }
+supernova = { path = "../supernova" }
+
+# heapless =
+typenum = "1.17.0"
+generic-array = "1.0.0"
+# bwrap = "1.3.0" # [[ text wrapping ]]
+# unicode-segmentation = "1.11.0" # [[ text graphemes ]]
