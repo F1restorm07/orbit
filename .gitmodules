@@ -4,8 +4,8 @@
 
 [submodule "starlink"]
 	path = starlink
-	url = https://github.com/F1restorm07/starlink
+	url = git://github.com/F1restorm07/starlink.git
 
 [submodule "supernova"]
 	path = supernova
-	url = https://github.com/F1restorm07/supernova
+	url = git://github.com/F1restorm07/supernova.git
